@@ -1,18 +1,18 @@
 # Introduction
 
-Nahmii Bonds is a DeFi tool that helps tokenised blockchain-based products protect their liquidity - and generate significant revenue while doing so.
+Bondii is a DeFi tool by Nahmii that helps tokenised blockchain-based products protect their liquidity - and generate significant revenue while doing so.
 
-Nahmii Bonds helps protocols acquire their own liquidity. Protocols no longer need to pay out high incentives to rent liquidity, while also guaranteeing the permanence of liquidity to facilitate transactions.
+Bondii helps protocols acquire their own liquidity. Protocols no longer need to pay out high incentives to rent liquidity, while also guaranteeing the permanence of liquidity to facilitate transactions.
 
-> Nahmii Bonds solves for liquidity problems by providing bonds-as-a-service for a small fee.
+> Bondii solves for liquidity problems by providing bonds-as-a-service for a small fee.
 
 Instead of staking their LP (liquidity provider) tokens for farming rewards in a pool 2, users can **exchange** their LP tokens for the protocol's governance tokens at a discounted rate. This is done through a process called [**Bonding**](nahmii-bonds-users/bonding.md)**.** As the protocol never sells these LP tokens, the liquidity is effectively locked within its treasury.
 
-Today, protocols set aside a large percentage of their token supply in order to incentivize liquidity providers. This negatively impacts the sustainability of the protocol in these ways:
+Today, protocols set aside a large percentage of their token supply in order to incentivise liquidity providers. This negatively impacts the sustainability of the protocol in these ways:
 
-**1. Significant Sell Pressure:** Inflationary token emission incentivizes short-term behavior that increases sell pressure on the farm tokens. Mercenary liquidity providers (LPs) often sell their rewards to recoup their investments. Current solutions, such as time-locked staking, don't solve the core issue at hand and simply prolong the liquidity attrition.
+**1. Significant Sell Pressure:** Inflationary token emission incentivises short-term behaviour that increases sell pressure on the farm tokens. Mercenary liquidity providers (LPs) often sell their rewards to recoup their investments. Current solutions, such as time-locked staking, don't solve the core issue at hand and simply prolong the liquidity attrition.
 
-**2. Goal Misalignment between Protocol and LP:** LPs are incentivized by high reward rates, rather than a strong belief in the success of the protocol. Hence, once the LP rewards are exhausted, the LPs will remove their capital and move on to the next opportunity.
+**2. Goal Misalignment between Protocol and LP:** LPs are incentivised by high reward rates, rather than a strong belief in the success of the protocol. Hence, once the LP rewards are exhausted, the LPs will remove their capital and move on to the next opportunity.
 
 **42%** of the yield farmers that enter a farm on the day it launches **exit within 24 hours**. Around **16% leave within 48 hours**, and by the **third day 70%** of these users would have withdrawn from the contract.
 
@@ -24,7 +24,7 @@ Today, protocols set aside a large percentage of their token supply in order to 
 
 ## Benefits of Olympus Pro for Protocols
 
-Why is Nahmii Bonds superior to traditional liquidity retention approaches?
+Why is Bondii superior to traditional liquidity retention approaches?
 
 **1. Protocols now own their liquidity,** rather than relying on mercenary LPs. This ensures permanence of liquidity and provides security for the protocol and its users.
 
@@ -34,13 +34,13 @@ Why is Nahmii Bonds superior to traditional liquidity retention approaches?
 
 4\. Protocols can unlock **new revenue streams** by capturing liquidity fees as they also become the liquidity providers themselves.
 
-5\. Protocols through their Nahmii Bonds partnership **gain extra exposure** as their bonds will be featured on the unified marketplace for bonds.
+5\. Protocols through their Bondii partnership **gain extra exposure** as their bonds will be featured on the unified marketplace for bonds.
 
 6\. Protocols gain access to **experienced policy and engineering teams** who provide market expertise and ensure success from deployment to maintenance.
 
-## Benefits of Nahmii Bonds for the Community
+## Benefits of Bondii for the Community
 
-Community plays an important role in the sustainability of a protocol. Nahmii Bonds offers the community:
+Community plays an important role in the sustainability of a protocol. Bondii offers the community:
 
 **1. Opportunities to buy discounted tokens**. Long-term holders do not need to speculate on price action in order to obtain more tokens. Through bonds, they can supply LP tokens to the protocol of their choice in exchange for its native tokens at a discounted rate. This is a win-win scenario for both the token holders and the protocol itself.
 
