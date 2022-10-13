@@ -8,7 +8,7 @@ description: >-
 
 ## Supplying Information to Nahmii
 
-Fill up this [notion form](https://notionforms.io/forms/olympus-pro-application) to register your interest in becoming a partner of Olympus Pro.
+Fill up this [~~notion form~~](https://notionforms.io/forms/olympus-pro-application) to register your interest in becoming a partner of Bondii.
 
 1. Total pilot emissions (e.g. 1,000,000 ABC token or USD equivalent).
 2. Token contract address
@@ -22,7 +22,7 @@ Nahmii will work with you to set up the necessary contracts to start the bond pr
 
 1\. Nahmii will deploy the factory contract, [~~OlympusProFactory~~](https://etherscan.io/address/0xb1F69deCb09D8490E3872FE26D27a7b83493cd65).
 
-2\. Nahmii will use the factory contract to deploy Nahmii Bonds `Custom Treasury` and Nahmii Bonds `Custom Bond` contracts, with the `owner` set to your **multisig address**.
+2\. Nahmii will use the factory contract to deploy Bondii's `Custom Treasury` and Bondii's `Custom Bond` contracts, with the `owner` set to your **multisig address**.
 
 {% hint style="info" %}
 At this point, you are in full control of the Custom Treasury and Custom Bond contracts.
@@ -47,7 +47,7 @@ At this point, you are in full control of the Custom Treasury and Custom Bond co
 | minimumPrice    | Minimum price of the bond                       |
 | maxPayout       | Max payout as a % of total supply               |
 | maxDebt         | Ceiling on how many bonds can be outstanding    |
-| initialDebt     | Initial debt used for initializing the contract |
+| initialDebt     | Initial debt used for initialising the contract |
 
 <figure><img src="../.gitbook/assets/initbond.png" alt=""><figcaption><p>Nahmii will supply the initialisation parameters</p></figcaption></figure>
 

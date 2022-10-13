@@ -5,7 +5,6 @@
 ## NAHMII BONDS PARTNERS
 
 * [Getting Started](nahmii-bonds-partners/getting-started.md)
-* [Security & Audits](nahmii-bonds-partners/security-and-audits.md)
 * [Contracts](nahmii-bonds-partners/contracts/README.md)
   * [Abracadabra](nahmii-bonds-partners/contracts/abracadabra.md)
   * [StakeDAO](nahmii-bonds-partners/contracts/stakedao.md)

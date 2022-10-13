@@ -1,12 +1,12 @@
 # FAQ
 
-### &#x20;<a href="#why-do-i-want-to-use-olympus-pro" id="why-do-i-want-to-use-olympus-pro"></a>
+## Why do I want to use Olympus Pro?
 
-It allows you to buy your favorite DeFi tokens at a discounted rate. Besides, you are helping the protocol to [accumulate their own liquidity](broken-reference) in the process. This keeps your goal and the protocol's aligned.
+It allows you to buy your favourite DeFi tokens at a discounted rate. Besides, you are helping the protocol to [accumulate their own liquidity](https://docs.olympusdao.finance/pro/#benefits-of-olympus-pro-for-protocols) in the process. This keeps your goal and the protocol's aligned.
 
-### &#x20;<a href="#what-is-the-relationship-between-olympus-pro-and-olympusdao" id="what-is-the-relationship-between-olympus-pro-and-olympusdao"></a>
+## What is the relationship between Bondii and Nahmii?
 
-Olympus Pro is a service offered by [OlympusDAO](https://www.olympusdao.finance/#/). OlympusDAO provides infrastructure, expertise, and exposure to other protocols in setting up the bond mechanism in exchange for a fee.
+Bondii is a service offered by [Nahmii](https://nahmii.io/). Nahmii provides infrastructure, expertise, and exposure to other protocols by setting up the bond mechanism in exchange for a fee.
 
 ### &#x20;<a href="#do-i-receive-ohm-from-olympus-pro-bonds" id="do-i-receive-ohm-from-olympus-pro-bonds"></a>
 
