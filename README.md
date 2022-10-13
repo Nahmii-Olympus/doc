@@ -1,5 +1,7 @@
 # Introduction
 
+## Summary
+
 Bondii is a DeFi tool by Nahmii that helps tokenised blockchain-based products protect their liquidity - and generate significant revenue while doing so.
 
 Bondii helps protocols acquire their own liquidity. Protocols no longer need to pay out high incentives to rent liquidity, while also guaranteeing the permanence of liquidity to facilitate transactions.
