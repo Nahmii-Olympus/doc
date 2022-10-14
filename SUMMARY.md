@@ -6,11 +6,7 @@
 
 * [Getting Started](nahmii-bonds-partners/getting-started.md)
 * [Contracts](nahmii-bonds-partners/contracts/README.md)
-  * [Kiwi Labs](nahmii-bonds-partners/contracts/abracadabra.md)
-  * [StakeDAO](nahmii-bonds-partners/contracts/stakedao.md)
-  * [Alchemix](nahmii-bonds-partners/contracts/alchemix.md)
-  * [Float Protocol](nahmii-bonds-partners/contracts/float-protocol.md)
-  * [Pendle](nahmii-bonds-partners/contracts/pendle.md)
+  * [Kiwii Labs](nahmii-bonds-partners/contracts/abracadabra.md)
 * [Contact](nahmii-bonds-partners/contact.md)
 
 ## NAHMII BONDS USERS
