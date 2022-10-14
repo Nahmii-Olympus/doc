@@ -6,7 +6,7 @@
 
 To incentivize users to sell to the protocol, rather than the open market, bonds are offered at a discounted rate. Bonds also have a vesting period to prevent users from selling all the discounted tokens at once for a quick profit. Bond price is determined by the supply and demand of bonds. It trends higher when there is more demand. As a result, bonding is a very competitive space - bonders compete with each other to grab the largest discount.
 
-Bond price can also be controlled by [BCV](https://docs.olympusdao.finance/references/glossary#bcv) (Bond Control Variable). It is a parameter set by the policy team to adjust bond capacity. When BCV increases, bond price increases, thus resulting in a smaller bond capacity.
+Bond price can also be controlled by BCV (Bond Control Variable). It is a parameter set by the policy team to adjust bond capacity. When BCV increases, bond price increases, thus resulting in a smaller bond capacity.
 
 As mentioned earlier, bonds are linearly vested over a period of time (5 days by default) to reduce sell pressure due to arbitrages.
 

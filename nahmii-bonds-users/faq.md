@@ -2,7 +2,7 @@
 
 ## Why do I want to use Bondii?
 
-It allows you to buy your favourite DeFi tokens at a discounted rate. Besides, you are helping the protocol to [accumulate their own liquidity](https://docs.olympusdao.finance/pro/#benefits-of-olympus-pro-for-protocols) in the process. This keeps your goal and the protocol's aligned.
+It allows you to buy your favourite DeFi tokens at a discounted rate. Besides, you are helping the protocol to accumulate their own liquidity in the process. This keeps your goal and the protocol's aligned.
 
 ## What is the relationship between Bondii and Nahmii?
 

@@ -8,7 +8,7 @@ description: >-
 
 ## Supplying Information to Nahmii
 
-Fill up this [~~notion form~~](https://notionforms.io/forms/olympus-pro-application) to register your interest in becoming a partner of Bondii.
+Reach out to us at info@nahmii.io to register your interest in becoming a partner of Bondii.
 
 1. Total pilot emissions (e.g. 1,000,000 ABC token or USD equivalent).
 2. Token contract address
@@ -20,7 +20,7 @@ Nahmii will work with you to set up the necessary contracts to start the bond pr
 
 **By Nahmii:**
 
-1\. Nahmii will deploy the factory contract, [~~OlympusProFactory~~](https://etherscan.io/address/0xb1F69deCb09D8490E3872FE26D27a7b83493cd65).
+1\. Nahmii will deploy the factory contract, [BondiiFactory](https://explorer.n3g0.nahmii.net/address/0x2b8C013C7FD496A8ff183Ce787288Aa3F2660a38).
 
 2\. Nahmii will use the factory contract to deploy Bondii's `Custom Treasury` and Bondii's `Custom Bond` contracts, with the `owner` set to your **multisig address**.
 
@@ -87,7 +87,7 @@ When adding new bond types there are two options:
 If you decide to go with option 1, it is as simple as calling `toggleBondContract` from the `Custom Treasury` contract and passing in the new `Custom Bond` contract address. As before, the bond will have to be initialised. A Nahmii policy member will assist in this as well.
 
 {% hint style="info" %}
-Olympus will create the new `Custom Bond` contract via [~~OlympusProFactory~~](broken-reference)~~~~
+Olympus will create the new`Custom Bond` contract via [BondiiFactory](https://explorer.n3g0.nahmii.net/address/0x2b8C013C7FD496A8ff183Ce787288Aa3F2660a38)
 {% endhint %}
 
 For option 2, you will just follow the steps as outlined in [Launching the Bond Program](getting-started.md#launching-the-bond-program) section.

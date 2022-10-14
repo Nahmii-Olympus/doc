@@ -6,7 +6,7 @@
 
 * [Getting Started](nahmii-bonds-partners/getting-started.md)
 * [Contracts](nahmii-bonds-partners/contracts/README.md)
-  * [Abracadabra](nahmii-bonds-partners/contracts/abracadabra.md)
+  * [Kiwi Labs](nahmii-bonds-partners/contracts/abracadabra.md)
   * [StakeDAO](nahmii-bonds-partners/contracts/stakedao.md)
   * [Alchemix](nahmii-bonds-partners/contracts/alchemix.md)
   * [Float Protocol](nahmii-bonds-partners/contracts/float-protocol.md)

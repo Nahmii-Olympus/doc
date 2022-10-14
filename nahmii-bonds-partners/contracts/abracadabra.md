@@ -1,8 +1,8 @@
-# Abracadabra
+# Kiwi Labs
 
 ### &#x20;<a href="#customtreasury" id="customtreasury"></a>
 
-Address: [0x8015...1030](https://etherscan.io/address/0x80154A49DC3217E5b1ef313f9f45293E95B91030)​
+Address:&#x20;
 
 ### &#x20;<a href="#custombond" id="custombond"></a>
 
