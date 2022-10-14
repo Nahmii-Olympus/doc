@@ -18,11 +18,11 @@ Address: [0x9A06...9775](https://explorer.n3g0.nahmii.net/address/0x9A062EF7892c
 
 
 
-###
+### Bond Payout Token
 
 This is the token offered to the bond purchaser.
 
-Address: [0xaDBA...32fA​](https://explorer.n3g0.nahmii.net/address/0xaDBA987955Eac146f1983062100046be46e632fA)
+Address: [0xFdc7...A63f](https://explorer.n3g0.nahmii.net/address/0xFdc78DA8Bbd584C6f6E14468c77b6f09105CA63f)
 
 ### Bond Principal Token
 
